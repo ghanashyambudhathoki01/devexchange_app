@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --primary: 79 70 229; /* indigo-600 */
+        --primary-light: 165 180 252;
+        --secondary: 15 23 42; /* slate-900 */
+        --accent: 244 63 94; /* rose-500 */
+    }
+
+    body {
+        @apply bg-slate-50 text-slate-900 antialiased;
+        font-family: 'Inter', sans-serif;
+    }
+}
+
+@layer components {
+    .glass {
+        @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-xl;
+    }
+    
+    .card {
+        @apply bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition-all duration-300;
+    }
+
+    .btn-primary {
+        @apply px-6 py-2.5 bg-indigo-600 text-white rounded-xl font-semibold hover:bg-indigo-700 hover:shadow-lg hover:-translate-y-0.5 transition-all active:scale-95;
+    }
+
+    .badge-tag {
+        @apply px-3 py-1 bg-indigo-50 text-indigo-600 rounded-lg text-sm font-medium hover:bg-indigo-100 transition-colors;
+    }
+}

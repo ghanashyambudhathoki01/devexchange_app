@@ -80,9 +80,6 @@ DevExchange aims to simplify how developers interact, collaborate, and share res
 
 <pre><code>git push origin feature/your-feature</code></pre>
 
-<h2>👨‍💻 Author</h2>
-<p><strong>Ghanashyam Budhathoki</strong></p>
-
 <h2>⭐ Support</h2>
 <p>If you find this project helpful:</p>
 
@@ -91,7 +88,5 @@ DevExchange aims to simplify how developers interact, collaborate, and share res
 <li>🐛 Report issues</li>
 <li>📢 Share with other developers</li>
 </ul>
-
-<p>
-💡 <strong>DevExchange — Empowering developers through collaboration and shared knowledge.</strong>
-</p>
+<h2>👨‍💻 Author</h2>
+<p><strong>Ghanashyam Budhathoki</strong></p>

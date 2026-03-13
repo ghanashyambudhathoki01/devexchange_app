@@ -83,12 +83,6 @@ DevExchange aims to simplify how developers interact, collaborate, and share res
 <h2>👨‍💻 Author</h2>
 <p><strong>Ghanashyam Budhathoki</strong></p>
 
-<p>GitHub:<br>
-<a href="https://github.com/ghanashyambudhathoki01">
-https://github.com/ghanashyambudhathoki01
-</a>
-</p>
-
 <h2>⭐ Support</h2>
 <p>If you find this project helpful:</p>
 
